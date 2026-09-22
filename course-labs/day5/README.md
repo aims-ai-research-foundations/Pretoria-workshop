@@ -54,4 +54,4 @@ Complete the **TODO** cells as you work through the notebook.
 
 A hidden **Solutions** section is provided at the end so you can check your answers after attempting the exercises.
 
-> Don't forget to have fun! 🚀🇬🇭
+> Don't forget to have fun! 🚀🇿🇦
